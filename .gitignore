@@ -1,0 +1,15 @@
+Build
+Content/Test
+Content/StarterContent
+Intermediate
+Binaries
+.vs
+*.sln
+/Config/steamvr_ue_editor_app.json
+*.steamvr_ue_editor_app.json
+DerivedDataCache
+/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+/Saved/
+!saved/Config/Windows/ExtensionSetting.ini
+/Config/steamvr_ue_editor_app.json
+DerivedDataCache
